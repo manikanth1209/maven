@@ -24,3 +24,6 @@ There are two ways how you could solve what you want:
 
 - use `-Dsurefire.skip=true/false` and `-DskipITs=true/false`(https://www.mkyong.com/maven/how-to-skip-maven-unit-test/)
 - call the plugin goal directly `mvn clean test-compile failsafe:integration-test`
+
+
+webhook from github
