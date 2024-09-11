@@ -28,3 +28,4 @@ There are two ways how you could solve what you want:
 
 webhook from github
 webhook used for auto commit in jenkins
+thanks for that
